@@ -5,9 +5,9 @@ In this repository I intend to commit every exercise, project, research and cour
 ## Main courses
 Main courses I've been using to
 
-![Datacamp](https://www.pngkey.com/png/detail/940-9400013_datacamp-logo-top-datacamp-logo.png)
-![Udacity](http://roniequeiroz.com/assets/img/blog/udacity.jpg)
-![Udemy](https://www.onlinecoursecoupons.com/wp-content/uploads/2017/11/Large-Vertical-TM@2x.png)
+![Datacamp](https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/dh65d2llcguuslya1pv2)
+![Udacity](https://cdn.iconscout.com/icon/free/png-256/udacity-282307.png)
+![Udemy](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x9lmuabarbbk6slwbwnm)
 
 - Introduction to R
 - Intermediate R
