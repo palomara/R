@@ -5,19 +5,19 @@ In this repository I intend to commit every exercise, project, research and cour
 ## Main courses
 Main courses I've been using to
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/URuAhvv.png">
+  <img src="https://i.imgur.com/URuAhvv.png">
 </p>
 - Introduction to R
 - Intermediate R
 - Introduction to Tidyverse
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/48Ra2yf.png">
+  <img src="https://i.imgur.com/48Ra2yf.png">
 </p>
 - Data Analysis with R by Facebook
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/xZlhO2L.png">
+  <img  src="https://i.imgur.com/xZlhO2L.png">
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/LP95TR0.jpg">
+  <img src="https://i.imgur.com/LP95TR0.jpg">
 </p>
 - Análise de dados: Introdução com R
