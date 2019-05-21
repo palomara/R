@@ -1,6 +1,6 @@
 # R - A deep study of the language 
 
-In this repository I intend to commit every exercise, project, research and course that I've been making to study R. 
+In this repository I intend to commit every exercise, project, research and course that I've been on to study R. 
 
 ## Main courses
 Main courses I've been using to
