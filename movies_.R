@@ -1,0 +1,12 @@
+library(dplyr)
+library(readr)
+library(tidyr)
+library(plotly)
+library(tidyverse)
+library(tibble)
+
+View(tmdb_5000_movies)
+glimpse(tmdb_5000_movies)
+str_sub(toString(tmdb_5000_movies))
+class(tmdb_5000_movies$budget)
+class(tmdb_5000_movies$original_title)
